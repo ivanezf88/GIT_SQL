@@ -1,0 +1,36 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       [swt].[fnFormatoJsonCargo].[IX_X1] on [swt].[fnFormatoJsonCargo]
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [agr].[CLIENTE] (Table)
+       [swt].[fnFormatoJsonCargo] (Function)
+     Create
+       [agr].[fnFormatoJson].[IX_NC_X1] (Index)
+       [swt].[fnFormatoJsonCargo].[IX_X1] (Index)
+
+** Supporting actions
+     Drop
+       [agr].[CLIENTE].[IX_NC_varGUIDCliente_X1] (Index)
+       [agr].[DF_bitIsActivo_CLI] (Default Constraint)
+     Create
+       [agr].[CLIENTE].[IX_NC_varGUIDCliente_X1] (Index)
+       [agr].[DF_bitIsActivo_CLI] (Default Constraint)
+     Refresh
+       [agr].[spInsertReferencia] (Procedure)
+       [agr].[spGetValidaciones] (Procedure)
+       [agr].[spObtenerDatosAPIClient] (Procedure)
+       [agr].[spValGenerales] (Procedure)
+       [agr].[spConsulReferencia] (Procedure)
+       [swt].[spPagoReferencia] (Procedure)
+       [agr].[spObtenerReferencia] (Procedure)
+
+The column bitIsActivo on table [agr].[CLIENTE] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

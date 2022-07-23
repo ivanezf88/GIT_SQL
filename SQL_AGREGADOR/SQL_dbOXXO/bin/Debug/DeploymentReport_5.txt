@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       [swt].[fnFormatoJsonCargo].[IX_X1] on [swt].[fnFormatoJsonCargo]
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [agr].[CLIENTE] (Table)
+       [swt].[fnFormatoJsonCargo] (Function)
+     Create
+       [agr].[fnFormatoJson].[IX_NC_X1] (Index)
+       [swt].[fnFormatoJsonCargo].[IX_X1] (Index)
+
+** Supporting actions
+     Refresh
+       [agr].[spInsertReferencia] (Procedure)
+       [agr].[spGetValidaciones] (Procedure)
+       [agr].[spObtenerDatosAPIClient] (Procedure)
+       [agr].[spValGenerales] (Procedure)
+       [agr].[spConsulReferencia] (Procedure)
+       [swt].[spPagoReferencia] (Procedure)
+       [agr].[spObtenerReferencia] (Procedure)

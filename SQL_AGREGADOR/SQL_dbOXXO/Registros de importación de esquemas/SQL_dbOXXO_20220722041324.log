@@ -1,0 +1,86 @@
+21/07/2022 11:13:24 p. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'SQL_dbOXXO' del equipo 'OCSI-DES-02' por el usuario 'Iván Nuñez'.
+21/07/2022 11:13:24 p. m.	Se inició la importación del esquema de la base de datos.
+21/07/2022 11:13:41 p. m.	Recopilando credenciales de la base de datos
+21/07/2022 11:13:41 p. m.	Recopilando opciones de base de datos
+21/07/2022 11:13:41 p. m.	Recopilando la opción de configuración de ámbito de la base de datos genérica
+21/07/2022 11:13:41 p. m.	Recopilando usuarios
+21/07/2022 11:13:41 p. m.	Recopilando roles
+21/07/2022 11:13:41 p. m.	Recopilando roles de aplicación
+21/07/2022 11:13:41 p. m.	Recopilando pertenencias a roles
+21/07/2022 11:13:41 p. m.	Recopilando grupos de archivos
+21/07/2022 11:13:41 p. m.	Recopilando catálogos de texto completo
+21/07/2022 11:13:41 p. m.	Recopilando ensamblados
+21/07/2022 11:13:41 p. m.	Recopilando certificados
+21/07/2022 11:13:41 p. m.	Recopilando claves asimétricas
+21/07/2022 11:13:41 p. m.	Recopilando claves simétricas
+21/07/2022 11:13:41 p. m.	Recopilando claves simétricas cifradas
+21/07/2022 11:13:41 p. m.	Recopilando esquemas
+21/07/2022 11:13:41 p. m.	Recopilando colecciones de esquemas XML
+21/07/2022 11:13:41 p. m.	Recopilando tipos de datos definidos por el usuario
+21/07/2022 11:13:41 p. m.	Recopilando tipos definidos por el usuario
+21/07/2022 11:13:41 p. m.	Recopilando tipos de tabla
+21/07/2022 11:13:41 p. m.	Recopilando claves únicas para tipos de tabla
+21/07/2022 11:13:41 p. m.	Recopilando claves principales para tipos de tabla
+21/07/2022 11:13:41 p. m.	Recopilando índices para tipos de tablas
+21/07/2022 11:13:41 p. m.	Recopilando restricciones CHECK para tipos de tabla
+21/07/2022 11:13:41 p. m.	Recopilando restricciones DEFAULT para tipos de tabla
+21/07/2022 11:13:41 p. m.	Recopilando funciones de partición
+21/07/2022 11:13:41 p. m.	Recopilando esquemas de partición
+21/07/2022 11:13:41 p. m.	Recopilando funciones
+21/07/2022 11:13:41 p. m.	Recopilando funciones cifradas
+21/07/2022 11:13:41 p. m.	Recopilando agregados
+21/07/2022 11:13:41 p. m.	Recopilando procedimientos
+21/07/2022 11:13:41 p. m.	Recopilando procedimientos cifrados
+21/07/2022 11:13:41 p. m.	Recopilando tablas
+21/07/2022 11:13:42 p. m.	Recopilando claves principales
+21/07/2022 11:13:42 p. m.	Recopilando restricciones UNIQUE
+21/07/2022 11:13:42 p. m.	Recopilando claves externas
+21/07/2022 11:13:42 p. m.	Recopilando restricciones DEFAULT
+21/07/2022 11:13:42 p. m.	Recopilando restricciones CHECK
+21/07/2022 11:13:42 p. m.	Recopilando vistas
+21/07/2022 11:13:42 p. m.	Recopilando vistas cifradas
+21/07/2022 11:13:42 p. m.	Recopilando índices
+21/07/2022 11:13:42 p. m.	Recopilando estadísticas
+21/07/2022 11:13:42 p. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+21/07/2022 11:13:42 p. m.	Recopilando listas de propiedades de búsqueda
+21/07/2022 11:13:42 p. m.	Recopilando propiedades de búsqueda
+21/07/2022 11:13:42 p. m.	Recopilando índices de texto completo
+21/07/2022 11:13:42 p. m.	Recopilando índices de almacenamiento de columnas
+21/07/2022 11:13:42 p. m.	Recopilando índices espaciales
+21/07/2022 11:13:42 p. m.	Recopilando índices XML
+21/07/2022 11:13:42 p. m.	Recopilando índices XML selectivos
+21/07/2022 11:13:42 p. m.	Recopilando desencadenadores cifrados
+21/07/2022 11:13:42 p. m.	Recopilando desencadenadores
+21/07/2022 11:13:42 p. m.	Recopilando DDL triggers cifrados y de CLR
+21/07/2022 11:13:42 p. m.	Recopilando DDL triggers
+21/07/2022 11:13:42 p. m.	Recopilando sinónimos
+21/07/2022 11:13:42 p. m.	Recopilando valores predeterminados
+21/07/2022 11:13:42 p. m.	Recopilando enlaces UDDT de restricción de datos
+21/07/2022 11:13:42 p. m.	Recopilando reglas
+21/07/2022 11:13:42 p. m.	Recopilando enlaces UDDT de restricción de datos
+21/07/2022 11:13:42 p. m.	Recopilando tipos de mensaje
+21/07/2022 11:13:42 p. m.	Recopilando colas
+21/07/2022 11:13:42 p. m.	Recopilando contratos
+21/07/2022 11:13:42 p. m.	Recopilando servicios
+21/07/2022 11:13:42 p. m.	Recopilando notificaciones de eventos
+21/07/2022 11:13:42 p. m.	Recopilando enlaces de servicio remoto
+21/07/2022 11:13:42 p. m.	Recopilando prioridades de Broker
+21/07/2022 11:13:42 p. m.	Recopilando firmas
+21/07/2022 11:13:42 p. m.	Recopilando opciones de compresión de datos
+21/07/2022 11:13:42 p. m.	Recopilando tipos de secuencia
+21/07/2022 11:13:42 p. m.	Recopilando directivas de seguridad
+21/07/2022 11:13:42 p. m.	Recopilar claves de cifrado de columna
+21/07/2022 11:13:42 p. m.	Recopilando claves maestras de columna
+21/07/2022 11:13:42 p. m.	Recopilando orígenes de datos externos
+21/07/2022 11:13:42 p. m.	Recopilando formatos de archivo externos
+21/07/2022 11:13:42 p. m.	Recopilando tablas externas
+21/07/2022 11:13:42 p. m.	Recopilando permisos de base de datos
+21/07/2022 11:13:43 p. m.	Recopilando propiedades extendidas
+21/07/2022 11:13:44 p. m.	Recopilando credenciales
+21/07/2022 11:13:44 p. m.	Recopilando inicios de sesión
+21/07/2022 11:13:44 p. m.	Recopilando auditorías de servidor
+21/07/2022 11:13:45 p. m.	Buscando elementos duplicados en el proyecto
+21/07/2022 11:13:46 p. m.	Ha finalizado el procesamiento de los elementos duplicados
+21/07/2022 11:13:46 p. m.	Finalizó la importación de la base de datos.
+21/07/2022 11:13:46 p. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\SQL\SQL_dbOXXO\SQL_dbOXXO\Registros de importación de esquemas\SQL_dbOXXO_20220722041324.log
+21/07/2022 11:13:46 p. m.	Haga clic en Finalizar para continuar...
