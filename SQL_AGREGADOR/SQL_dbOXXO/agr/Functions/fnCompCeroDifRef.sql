@@ -26,5 +26,6 @@ BEGIN
 
 	RETURN @V_Cadena
 
+	--NUEVO PARA PROBAR
 
 END
